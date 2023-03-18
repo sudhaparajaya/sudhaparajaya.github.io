@@ -162,6 +162,10 @@ body {
   justify-content: space-between;
 }
 
+.contactInfo.language .text.english {
+  margin-top: 20px;
+}
+
 .contactInfo.language .text span {
   font-size: 12px;
   padding-top: 5px;
